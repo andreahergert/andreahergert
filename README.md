@@ -1,8 +1,6 @@
 - 👋 I am a driven and self-motivated individual with a passion for libraries and technology and a desire to make a positive impact through my work. I have a proven ability to learn and adapt quickly in a fast-paced environment. With a focus on delivering high-quality, reliable solutions, I am committed to constantly improving my skills and staying up-to-date with the latest trends and technologies. Whether working independently or as part of a team, I am always striving to contribute to the success of the project and the company.
-- 🖥️ Portfolio: https://andreahergert.github.io/portfolio/ 
-- 🌱 I’m currently reviewing JavaScript with a focus on the vocabulary.
-- 🚀 I'm currently working on 30 Days of JavaScript Challenge.
-- 📫 ahergert24@hotmail.com
+- 🖥️ LinkedIn: https://www.linkedin.com/in/andreahergert/
+- 📫 ahergert24@gmail.com
  
 ### Skills
 <p align="left">
