@@ -1,4 +1,4 @@
-- 👋 I am a driven and self-motivated individual with a passion for libraries and technology and a desire to make a positive impact through my work. I have a proven ability to learn and adapt quickly in a fast-paced environment. With a focus on delivering high-quality, reliable solutions, I am committed to constantly improving my skills and staying up-to-date with the latest trends and technologies. Whether working independently or as part of a team, I am always striving to contribute to the success of the project and the company.
+- 👋 I am a driven and self-motivated individual with a passion for technology and a desire to make a positive impact through my work. I have a proven ability to learn and adapt quickly in a fast-paced environment. With a focus on delivering high-quality, reliable solutions, I am committed to constantly improving my skills and staying up-to-date with the latest trends and technologies. Whether working independently or as part of a team, I am always striving to contribute to the success of the project and the company.
 - 🖥️ LinkedIn: https://www.linkedin.com/in/andreahergert/
 - 📫 ahergert24@gmail.com
  
